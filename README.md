@@ -3,7 +3,6 @@
 Este repositório reúne exercícios desenvolvidos durante meus estudos de HTML e CSS.
 
 Os exercícios abordam conceitos como:
-
 - Estrutura de páginas com HTML
 - Estilização com CSS
 - Layout e organização visual
